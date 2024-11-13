@@ -1,1 +1,1 @@
-# tf-aws-ec2-redhat-gui
+# tf-aws-ec2-redhat-pgadmin
